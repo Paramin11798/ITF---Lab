@@ -1,5 +1,4 @@
 # ITF-lab 2018
 
 #Author
-
-*Paramin
+*Paramin Soontornsanee    61070114
